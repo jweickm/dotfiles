@@ -1,0 +1,1 @@
+mklink /H "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\workspacer.lnk" "C:\workspacer\workspacer.exe"

@@ -1,0 +1,2 @@
+rem TODO: Create an scheduled task that runs Hidetaskbar.exe every minute 
+mklink /H "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\HideTaskbar.lnk" "%USERPROFILE%\utils\HideTaskbar\hideTaskbar.exe"
